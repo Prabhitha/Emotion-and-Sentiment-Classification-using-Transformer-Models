@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct 25 00:19:30 2020
+Created on February 2022
 
-@author: Jiang Yuxin
+@author: Prabhitha Nagarajan
 """
 
 import torch
